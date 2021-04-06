@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mark-tony
+- 👋 Hi, I’m @mark-tony, a Computer-Engineering student at Boston University graduating May 16, 2021.
 - 👀 I’m interested in solving the world's seemingly infinite problems with the definitely finite list of commands Computer Science has to offer.
 - 🌱 I’m currently learning how to change the world most effectively.
 - 💞️ I’m looking to collaborate on FitStart and FootInTheDoor, Coming to the Apple App Store soon!
